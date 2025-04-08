@@ -1,4 +1,4 @@
----
+---03aea7868ed5283955cc9e742eccd42fbd93ff98
 name: Bug report
 about: Create a report to help us improve
 title: ''
